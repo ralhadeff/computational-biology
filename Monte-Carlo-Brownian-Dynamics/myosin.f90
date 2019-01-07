@@ -7,6 +7,7 @@
       program main
 
 !	written by Raphael Alhadeff April 2017
+!     version updated Jan 2018
 
       implicit none
 
