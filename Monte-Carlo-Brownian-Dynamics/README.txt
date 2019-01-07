@@ -7,6 +7,7 @@ A 'clean' version of the code is provided, where the FF is deleted, and can be i
 Please note that the 2D LD code uses the same friction coefficient in x andy axes (this code was discontinued and this issue was never addressed)
 
 example input files are provided
+Please contact me (ralhadef@usc.edu) if you have any questions on how to run/modify/interpret results
 
 Markus parabols:
 
