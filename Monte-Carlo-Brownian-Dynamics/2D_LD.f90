@@ -1,10 +1,10 @@
-! @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-! @@ LD/MC code for adenylate kinase - Subendu project @@
-! @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+! @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+! @@ LD/MC code for adenylate kinase renormalization @@
+! @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
       program main
 
-!	written by Raphael Alhadeff Marc 2018
+!	written by Raphael Alhadeff March 2018
 
       implicit none
 
