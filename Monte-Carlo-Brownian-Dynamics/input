@@ -1,0 +1,44 @@
+1000000 1000
+300 OD
+0.0025 10
+10 .false.  .true. .true.	! stepSize			rerun?		printE?		printState?
+6 2				! nOfKnees			nActin
+3 32.6 20			! bond (and rejection radius)
+5 2.61 2.61			! angle constant min and max
+-0.9 0.9 0.05 UC		! foot angle
+40 0				! ktorsion			phi0
+1.8 2.2				! footdG			footBarrier
+5 40 1 4			! actMyoSpacer			actMyoLength
+50.1 50				! actMyoBarrierATP		actMyoBarrierElse
+-1.4 				! actMyoBind
+5 10				! myoNucleotideSpacer		nucleotideLength
+5.8 55.8 -4 			! myoNucLowBarrier		myoNucHighBarrier		myoNucBind
+5 66.5 16.5			! Pi release
+62.5 12.5			! adpPi2ndBarrierW		adpPi2ndBarrierP - hydro
+5.0 10.7			! adpPiBind			adpPi2ndBind
+50 50 50
+0
+360 360 0 0 0 0
+ 435.612 -84.839 350.483   5
+443.024	-70.805	325.359 5
+450.435	-56.771	300.234 5
+457.847	-42.737	275.110 5
+465.259	-28.702	249.986 5
+472.671	-14.668	224.862 5
+480.082	-0.634	199.737 5
+ 487.494  13.400 174.613   50
+470.053	11.859	149.374 5
+452.611	10.317	124.136 5
+435.170	8.776	98.897 5
+417.729	7.235	73.658 5
+400.288	5.694	48.419 5
+382.846	4.152	23.181 5
+ 365.405   2.611  -2.058   5
+ 426.785 -54.389 337.998   3
+ 396.426 -50.636 308.576   3
+ 431.980 -85.129 350.567   3
+ 427.462 -72.277 359.217   3
+ 332.564  35.521  11.330   3
+ 330.862  32.136   7.741   3
+ 374.457  30.368  20.280   3
+ 388.108  26.477  21.985   3
