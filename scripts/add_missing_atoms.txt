@@ -1,0 +1,8 @@
+To add missing atoms using the scripts provided:
+
+* this is designed to generate input for Molaris (https://laetro.usc.edu/software.html)
+
+Need a pdb of the original structure.
+Add missing atoms to it using a webserver (I used MaxSprout, other option is e.g. CHARMM-GUI).
+Run script (each chain separately).
+delete OXT atom, and rename O2 to O
