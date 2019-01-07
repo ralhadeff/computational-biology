@@ -1,0 +1,12 @@
+10000000 1000			! nSteps write_out_freq
+1000 OD				! temperature scheme(OD/UD/MC)
+0.0025 10 10			! dt(in ps)		fric_x		fric_y			
+1 0.4 .true.  .true. 		! stepSize(in A) threshold(~0.5-0.2)	rerun?		printE?
+1 				! nOfParticles
+-20 20 10			! boundary -x x dx
+-20 20 10			! boundary -y y dy
+15				! boundary K
+0 4 -2				! input curve x ( x0, xbarrier, x1) 	chemistry open
+0 13 11				! x2 curves				chemistry closed
+-3 8 0				! y					conformation
+-10 3 0 2			! x y z m
