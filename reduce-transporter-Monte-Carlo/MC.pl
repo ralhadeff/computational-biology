@@ -1,4 +1,6 @@
-# Raphael Alhadeff May 2016 v.27
+#!/usr/bin/env perl
+
+# Raphael Alhadeff Sept 2018 v.34
 
 
 # usage: perl script inputFileName
