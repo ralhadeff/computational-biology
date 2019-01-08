@@ -1,3 +1,5 @@
+#!/usr/bin/env perl
+
 # This script will do the work that the two other scripts require
 # for this script to work, you'll need one pdb of the original coordinates and a second pdb with the missing residues, and they have to be numbered the same!
 # The rest is done by itself.
