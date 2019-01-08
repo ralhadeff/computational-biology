@@ -1,3 +1,5 @@
+#!/usr/bin/env perl
+
 # This script takes two pdb files, and creates a third one where all coordinates are the result of applying the delta vector of the two, on one of them, n times. Notice that the two pdbs must be IDENTICAL in terms of atom order , number and type etc.
 
 # Usage: perl carteian_vector_continue.pl A.pdb B.pdb n
