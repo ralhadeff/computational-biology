@@ -1,3 +1,5 @@
+# a bunch of tcl scripts for manipulating and analyzing proteins in VMD
+
 # Move a selection so that the geometric center is at 0 0 0 
 proc move_to_origin {selection} {
 
