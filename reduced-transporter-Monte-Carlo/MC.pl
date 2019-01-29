@@ -6,7 +6,7 @@
 # usage: perl script inputFileName
 # input file syntax is complex.
 
-# based on http://web.chem.ucsb.edu/~kalju/MonteCarlo_3.html (monte carlo metropolis)
+# based on http://web.chem.ucsb.edu/~kalju/MonteCarlo_3.html (Monte Carlo with the Metropolis acceptance criterion)
 
 # $positionEnergy[$site][$type][$state] = energy in kcal/mol
 # barriers for the MC will be calculated by calculating delta energies
