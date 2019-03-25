@@ -1,3 +1,2 @@
 # This file ensures that the repository is not marked as 'Jupyter Notebook'. notebook files tend to very long while in practice they are not always the main body of a repository
-* linguist-vendored
-*.ipynb linguist-vendored=true
+*.ipynb linguist-vendored
