@@ -10,4 +10,4 @@ Chronological order of attempts:
 
 Up until this point, all generated images are very blurry.
 
-* `greedy_layer` - greedy layer-wise pre-training. Normal AE is pre-trained on the data, and the hidden layer is used to run a VAE through. Some success, at least compared to previous attempts.
+* `greedy_layer` - greedy layer-wise pre-training. Normal AE is pre-trained on the data, and the hidden layer is used to run a VAE through. Some success, at least compared to previous attempts. Some variations of this approach were tried (with the base name `greedy_layer_`)
