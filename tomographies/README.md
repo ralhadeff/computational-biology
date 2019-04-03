@@ -1,4 +1,4 @@
-Work in progress...  
+Work in progress (April 2019) 
 
 The goal is to learn what cell slices look like and generate de-novo images of cell slices.
 
